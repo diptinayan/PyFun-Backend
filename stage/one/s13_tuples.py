@@ -15,11 +15,11 @@ route = {
 data = {
     'title': 'Tuples',
     'description': [
-        'A Tuple is a collection of Python objects separated by commas. In someways a tuple is similar to a list in terms of indexing, nested objects and repetition but a tuple is immutable unlike lists which are mutable.',
-        'Try to say Hello to me!'
+        'A Tuple is a collection of Python objects separated by commas. In someways a tuple is similar to a list in terms of indexing, nested objects and repetition but a tuple is immutable unlike lists which are mutable.
     ],
     'code': [
-        '_____(\'_____\')'
+        'thistuple = ("apple", "banana", "cherry")',
+'print(thistuple)'
     ],
     'fields': []
 }
